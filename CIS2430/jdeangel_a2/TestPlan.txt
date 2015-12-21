@@ -1,0 +1,20 @@
+CIS 2430 - Assignment 2 - Test Plan Document
+
+** Tested different cases for taking in user input
+- Initially, when the program asks for 'add, search, or quit' ... The user
+may enter any combination of case for the word. Also A a S s and Q q are being
+accepted as aprropriate input
+- Any other values entered at this point will not be accepted
+
+** Years being entered for searching must be valid ranges
+- Appropriate input may be (2004 ... or ... 2000-2010)
+- Letters or characters entered when asking for years will cause 
+program to crash
+
+** File IO
+- Printing to output file, file will be created
+- Simply adding a book or journal of reference object will print the fields to 
+a test file. Can check by opening the file in the root directory
+
+** Hashmap
+- Tested a working hashmap by adding a reference with multiple keywords and then searching for a single keyword and viewing a results
