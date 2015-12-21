@@ -1,0 +1,17 @@
+CIS 2430 - Assignment 3 - Test Plan Document
+
+** Testing  TextFields
+- Passing years that are out of range or Strings (Exceptions handled accordingly)
+- Tested leaving blank spaces, specific fields must be entered in order to add a reference
+- Tested leaving all blanks for search fields, program WILL return all references that are added
+
+** Panels and GUI
+- Everytime adding a panel to object the main JFrame, running the program to see the current layout and possible adjustments that may be neccessary 
+
+** File IO
+- Printing to output file, file will be created
+- Simply adding a book or journal of reference object will print the fields to 
+a test file. Can check by opening the file in the root directory
+
+** Hashmap
+- Tested a working hashmap by adding a reference with multiple keywords and then searching for a single keyword and viewing a results
