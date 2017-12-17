@@ -1,0 +1,5 @@
+/Users/juliandeangelis/Projects/BinaryStrings/BinaryStrings/bin/Debug/BinaryStrings.exe
+/Users/juliandeangelis/Projects/BinaryStrings/BinaryStrings/bin/Debug/BinaryStrings.pdb
+/Users/juliandeangelis/Projects/BinaryStrings/BinaryStrings/obj/x86/Debug/BinaryStrings.csproj.CoreCompileInputs.cache
+/Users/juliandeangelis/Projects/BinaryStrings/BinaryStrings/obj/x86/Debug/BinaryStrings.exe
+/Users/juliandeangelis/Projects/BinaryStrings/BinaryStrings/obj/x86/Debug/BinaryStrings.pdb

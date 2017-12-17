@@ -1,0 +1,5 @@
+/Users/juliandeangelis/Projects/GeneratePermutations/GeneratePermutations/bin/Debug/GeneratePermutations.exe
+/Users/juliandeangelis/Projects/GeneratePermutations/GeneratePermutations/bin/Debug/GeneratePermutations.pdb
+/Users/juliandeangelis/Projects/GeneratePermutations/GeneratePermutations/obj/x86/Debug/GeneratePermutations.csproj.CoreCompileInputs.cache
+/Users/juliandeangelis/Projects/GeneratePermutations/GeneratePermutations/obj/x86/Debug/GeneratePermutations.exe
+/Users/juliandeangelis/Projects/GeneratePermutations/GeneratePermutations/obj/x86/Debug/GeneratePermutations.pdb
